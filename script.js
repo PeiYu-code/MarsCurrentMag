@@ -9,7 +9,7 @@ const wordBank = [
     { eng: "assistance", ch: "協助(n.)" },
     { eng: "promote", ch: "提倡、升遷(v.)" },
     { eng: "recognize", ch: "認可、認出(v.)" },
-    { eng: ""critic", ch: "評論家、批評者(n.)" },
+    { eng: "critic", ch: "評論家、批評者(n.)" },
     { eng: "aim", ch: "目標(n.)；目標瞄準於(v.) +at" },
     { eng: "feline", ch: "貓科的(adj.)；貓科動物(n.)" },
     { eng: "overtake", ch: "超越(v.)" },
