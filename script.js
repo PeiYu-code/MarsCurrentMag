@@ -52,7 +52,6 @@ const wordBank = [
       { eng: "catch sb. off guard", ch: "乘其不備抓住某人" },
       { eng: "swallow", ch: "吞下(v.)" },
       { eng: "process", ch: "流程(n.)；加工、處理(v.)" }
-  academy, category, rapidly, digital, emphasize, in favor of, enforcement, complicated, beg, witness, 
 ];
 
 // 2. 遊戲狀態與記錄變數
