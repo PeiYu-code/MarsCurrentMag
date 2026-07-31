@@ -67,7 +67,7 @@ let wrongWordsSet = new Set();
 let startTime = null; // 用於計算單輪花費秒數
 
 // ⚠️ 請把你在 Google Apps Script 部署得到的 Web App 網址貼在下方雙引號內：
-const GOOGLE_APP_URL = "https://script.google.com/macros/s/AKfycbwxQzgOPKMe8QQE_CZhEyq42uInQ_Nxmf9pT5dLUxBpFUgar9lPZtDtsKmcLneeOJTBBg/exec";
+const GOOGLE_APP_URL = "https://script.google.com/macros/s/AKfycbzkpmRwHJzp_vByBST5yPs-EItL9sABYTYvuCdHo3sytMHeMmrOQgSECTQDl8geOmS6Jw/exec";
 
 // 3. 亂數洗牌函數 (Fisher-Yates Shuffle)
 function shuffle(array) {
